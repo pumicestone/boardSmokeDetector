@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name respireco-footprints)(type KiCad)(uri /home/aap/Dokumenty/RESPIRECO/respirecoKicadLib/respireco-footprints.pretty)(options "")(descr ""))
+  (lib (name RESPIRECO)(type KiCad)(uri /home/aap/Dokumenty/RESPIRECO/respirecoKicadLib/RESPIRECO.pretty)(options "")(descr ""))
+)
