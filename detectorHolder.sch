@@ -113,7 +113,7 @@ F 1 "Conn_01x03" H 3755 2326 50  0000 L CNN
 F 2 "Connector_JST:JST_PH_B3B-PH-SM4-TB_1x03-1MP_P2.00mm_Vertical" H 3675 2375 50  0001 C CNN
 F 3 "~" H 3675 2375 50  0001 C CNN
 	1    3675 2375
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0105
